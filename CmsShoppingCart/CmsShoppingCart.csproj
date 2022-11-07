@@ -7,6 +7,12 @@
   <ItemGroup>
     <Compile Remove="Migrations\20221104085429_InitialCreate.cs" />
     <Compile Remove="Migrations\20221104085429_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20221107090530_SecondCreate.cs" />
+    <Compile Remove="Migrations\20221107090530_SecondCreate.Designer.cs" />
+    <Compile Remove="Migrations\20221107111628_SecondCreate.cs" />
+    <Compile Remove="Migrations\20221107111628_SecondCreate.Designer.cs" />
+    <Compile Remove="Migrations\20221107112356_SecondCreate.cs" />
+    <Compile Remove="Migrations\20221107112356_SecondCreate.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -19,7 +25,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
   </ItemGroup>
 
