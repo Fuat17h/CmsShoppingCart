@@ -161,3 +161,11 @@ C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3
 C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
 C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
 C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Pages\Page.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\MainMenu\Default.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Products\ProductsByCategory.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs

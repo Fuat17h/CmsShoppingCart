@@ -27,7 +27,7 @@ using CmsShoppingCart.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"88de83efb7e2f82adc5aeedc64221363d8438c3d", @"/Areas/Admin/Views/Pages/Details.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"33ae8cb96efde4bcd1e38247d878d4f9207f3ba1", @"/Areas/Admin/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"fe2d9e2255235de1d8237b86afbfd21e88c603d8", @"/Areas/Admin/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Areas_Admin_Views_Pages_Details : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<Page>
     #nullable disable
