@@ -169,3 +169,11 @@ C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3
 C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
 C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Products\ProductsByCategory.cshtml.g.cs
 C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\staticwebassets\CmsShoppingCart.StaticWebAssets.Pack.cache
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CmsShoppingCart.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CmsShoppingCart.props
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CmsShoppingCart.props
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CmsShoppingCart.props
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SmallCart\Default.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Cart\_PaypalPartial.cshtml.g.cs
