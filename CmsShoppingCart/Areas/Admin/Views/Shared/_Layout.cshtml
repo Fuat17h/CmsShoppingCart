@@ -27,6 +27,15 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="Admin" asp-controller="Products" asp-action="Index">Products</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="Admin" asp-controller="Users" asp-action="Index">Users</a>
+                        </li><li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="Admin" asp-controller="Roles" asp-action="Index">Roles</a>
+                        </li>
+                        <li class="nav-item ml-1 logout">
+                            <a asp-area="" asp-controller="Account" asp-action="Logout" class="btn btn-danger">Log Out</a>
+                            @*Hi, @User.Identity.Name,*@
+                        </li>
                         </ul>
                 </div>
             </div>

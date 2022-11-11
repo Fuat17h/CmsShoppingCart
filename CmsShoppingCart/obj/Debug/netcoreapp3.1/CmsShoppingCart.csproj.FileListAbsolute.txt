@@ -177,3 +177,16 @@ C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3
 C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
 C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SmallCart\Default.cshtml.g.cs
 C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Cart\_PaypalPartial.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NotificationPartial.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\Index.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\Create.cshtml.g.cs
+C:\Users\FUAD\source\repos\CmsShoppingCart\CmsShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\Edit.cshtml.g.cs

@@ -5,9 +5,11 @@ using System.Threading.Tasks;
 using System;
 using Microsoft.EntityFrameworkCore;
 using CmsShoppingCart.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CmsShoppingCart.Controllers
 {
+    [Authorize]
     public class ProductsController : Controller
     {
         private readonly CmsShoppingCartContext context;

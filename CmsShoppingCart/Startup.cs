@@ -1,7 +1,9 @@
 using CmsShoppingCart.Infrastructure;
+using CmsShoppingCart.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -33,12 +35,26 @@ namespace CmsShoppingCart
                 //options.IdleTimeout = TimeSpan.FromDays(2);
             });
 
+            services.AddRouting(options => options.LowercaseUrls = true);
+
             services.AddControllersWithViews();
 
             services.AddDbContext<CmsShoppingCartContext>(options =>
             {
                 options.UseSqlServer(Configuration.GetConnectionString("CmsShoppingCartContext"));
             });
+
+
+            services.AddIdentity<AppUser, IdentityRole>(options =>
+            {
+                options.Password.RequiredLength= 4;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireLowercase = false;
+                options.Password.RequireUppercase = false;
+                options.Password.RequireDigit = false;
+            })
+                    .AddEntityFrameworkStores<CmsShoppingCartContext>()
+                    .AddDefaultTokenProviders();
 
         }
 
@@ -62,7 +78,10 @@ namespace CmsShoppingCart
 
             app.UseSession();
 
+            app.UseAuthentication();
+
             app.UseAuthorization();
+
 
             // From most specific to least specific
             app.UseEndpoints(endpoints =>
